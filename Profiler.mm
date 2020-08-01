@@ -4,7 +4,7 @@
 //
 //  Created by Niels Gabel on 9/1/08.
 //
-//	Copyright 208-2011 Niels Gabel
+//	Copyright 2008-2011 Niels Gabel
 //
 //	Licensed under the Apache License, Version 2.0 (the "License");
 //	you may not use this file except in compliance with the License.
