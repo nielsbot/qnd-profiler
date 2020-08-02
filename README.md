@@ -17,10 +17,16 @@
 
   
 
-4. The profiler dump will be printed when your program exits, OR do this in your debugger
+4. The profiler dump will be printed when your program exits, OR do this in your debugger:
 
-   GDB	'call (void)ProfilerExitFunction()'
-   LLDB	'expr (void)ProfilerExitFunction()'
+    GDB
+    ```
+    call (void)ProfilerExitFunction()
+    ```
+    
+    LLDB
+    ```
+    expr (void)ProfilerExitFunction()
+    ```
 
-   which will get you your profiler dump in your debug console.
-
+    This will get you your profiler dump in your debug console.
